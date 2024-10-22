@@ -1,5 +1,3 @@
-# prompt: write a README file for this project
-
 # Spam Classification Project
 
 This project explores different machine learning algorithms for classifying emails as spam or not spam using the Spambase dataset. 
